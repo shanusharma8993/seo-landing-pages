@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "chandigarh",
+    "name": "Chandigarh",
+    "region": "Chandigarh",
+    "country": "IN",
+    "intro": "Chandigarh's mix of IT parks, education providers and healthcare groups makes it one of North India's most competitive markets for online visibility.",
+    "industries": ["Education", "Healthcare", "Real estate", "IT services"],
+    "nearby": ["mohali", "delhi"],
+    "geo": { "latitude": 30.7333, "longitude": 76.7794 }
+  },
+  {
+    "slug": "mohali",
+    "name": "Mohali",
+    "region": "Punjab",
+    "country": "IN",
+    "intro": "Mohali is home to a fast-growing startup community and the IT City cluster, where businesses compete for both customers and talent online.",
+    "industries": ["Startups", "IT services", "Hospitality", "Manufacturing"],
+    "nearby": ["chandigarh", "delhi"],
+    "geo": { "latitude": 30.7046, "longitude": 76.7179 }
+  },
+  {
+    "slug": "delhi",
+    "name": "Delhi",
+    "region": "Delhi",
+    "country": "IN",
+    "intro": "Delhi NCR businesses operate in one of the largest and most crowded digital markets in the country, where speed and relevance decide who gets the click.",
+    "industries": ["Retail", "Professional services", "Travel", "Education"],
+    "nearby": ["chandigarh", "mumbai"],
+    "geo": { "latitude": 28.6139, "longitude": 77.209 }
+  },
+  {
+    "slug": "mumbai",
+    "name": "Mumbai",
+    "region": "Maharashtra",
+    "country": "IN",
+    "intro": "Mumbai's finance, media and retail sectors demand digital experiences that are fast, trustworthy and built to scale.",
+    "industries": ["Finance", "Media", "Retail", "Real estate"],
+    "nearby": ["bengaluru", "delhi"],
+    "geo": { "latitude": 19.076, "longitude": 72.8777 }
+  },
+  {
+    "slug": "bengaluru",
+    "name": "Bengaluru",
+    "region": "Karnataka",
+    "country": "IN",
+    "intro": "Bengaluru's product companies and SaaS startups expect engineering-grade websites that perform as well as the products they sell.",
+    "industries": ["SaaS", "Fintech", "Healthtech", "E-commerce"],
+    "nearby": ["mumbai", "chandigarh"],
+    "geo": { "latitude": 12.9716, "longitude": 77.5946 }
+  }
+]

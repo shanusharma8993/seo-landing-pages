@@ -1,0 +1,157 @@
+[
+  {
+    "slug": "website-development",
+    "name": "Website Development",
+    "tagline": "Fast, accessible websites engineered to rank and convert.",
+    "summary": "Custom websites built on modern frameworks with performance, accessibility and technical SEO baked in from day one.",
+    "description": [
+      "We design and build custom websites that load quickly, work on every device and are easy for your team to update. Every project starts with your business goals and the journeys your customers take, not with a template.",
+      "Our builds use modern frameworks such as Next.js with server rendering, so search engines and visitors receive complete, meaningful HTML on the first request. Core Web Vitals, structured data and accessibility are part of the definition of done."
+    ],
+    "benefits": [
+      { "title": "Performance first", "description": "Server rendering, optimised images and self-hosted fonts keep Largest Contentful Paint low on real mobile networks." },
+      { "title": "Search-ready architecture", "description": "Clean URLs, canonical tags, XML sitemaps and structured data so search engines understand every page." },
+      { "title": "Easy to manage", "description": "A headless CMS or simple content files let your team publish without waiting on developers." },
+      { "title": "Accessible by default", "description": "Semantic HTML, keyboard support and sufficient colour contrast aligned with WCAG 2.2 AA." }
+    ],
+    "process": [
+      "Discovery workshop and sitemap planning",
+      "Wireframes and visual design",
+      "Development, content entry and QA",
+      "Launch, monitoring and handover"
+    ],
+    "faqs": [
+      { "question": "How long does a typical website project take?", "answer": "Most business websites take 4 to 8 weeks from discovery to launch, depending on the number of templates, integrations and how quickly content is ready." },
+      { "question": "Will I be able to edit the website myself?", "answer": "Yes. We connect a content management system or structured content files so you can update text, images and pages without touching code." },
+      { "question": "Do you migrate existing content and redirects?", "answer": "Yes. We map every existing URL to its new location and set up 301 redirects so you keep the search visibility you have already earned." }
+    ],
+    "startingPrice": 1500,
+    "related": ["seo-services", "ecommerce-development", "ui-ux-design"],
+    "locations": ["chandigarh", "mohali", "delhi", "mumbai", "bengaluru"],
+    "updatedAt": "2026-09-28"
+  },
+  {
+    "slug": "seo-services",
+    "name": "SEO Services",
+    "tagline": "Sustainable organic growth built on technical foundations and useful content.",
+    "summary": "Technical audits, on-page optimisation and content strategy that grow qualified organic traffic month over month.",
+    "description": [
+      "Our SEO engagements start with a technical audit covering crawlability, indexation, site speed and structured data. We fix what blocks search engines before investing in new content.",
+      "From there we build a keyword and content plan around the questions your customers actually ask, and we report on leads and revenue rather than vanity rankings."
+    ],
+    "benefits": [
+      { "title": "Technical audit", "description": "Crawl analysis, Core Web Vitals review, index coverage and structured data validation." },
+      { "title": "Local visibility", "description": "Google Business Profile optimisation, location pages and consistent citations for local search." },
+      { "title": "Content strategy", "description": "Topic clusters and briefs mapped to search intent at every stage of the funnel." },
+      { "title": "Transparent reporting", "description": "Monthly dashboards tied to conversions, not just positions." }
+    ],
+    "process": [
+      "Technical and content audit",
+      "Keyword research and opportunity sizing",
+      "On-page fixes and content production",
+      "Monthly reporting and iteration"
+    ],
+    "faqs": [
+      { "question": "How soon will I see results from SEO?", "answer": "Technical fixes can show impact within weeks, while competitive rankings typically build over 3 to 6 months of consistent work." },
+      { "question": "Do you guarantee first-page rankings?", "answer": "No reputable agency can guarantee rankings. We commit to a transparent process, measurable milestones and work that follows search engine guidelines." },
+      { "question": "Is local SEO included?", "answer": "Yes. Location-based businesses receive Google Business Profile optimisation, local landing pages and citation management." }
+    ],
+    "startingPrice": 500,
+    "related": ["website-development", "digital-marketing", "ui-ux-design"],
+    "locations": ["chandigarh", "mohali", "delhi", "mumbai", "bengaluru"],
+    "updatedAt": "2026-10-02"
+  },
+  {
+    "slug": "ecommerce-development",
+    "name": "E-commerce Development",
+    "tagline": "Online stores that are quick to browse and simple to buy from.",
+    "summary": "Headless and platform-based online stores with fast product pages, secure checkout and integrations with your inventory and payments.",
+    "description": [
+      "We build online stores on Shopify, WooCommerce or a headless stack, choosing the platform that fits your catalogue size, budget and growth plans.",
+      "Product and category pages are rendered on the server with Product structured data, so they are indexable, shareable and eligible for rich results."
+    ],
+    "benefits": [
+      { "title": "Conversion-focused UX", "description": "Streamlined product discovery, filters and a checkout with as few steps as possible." },
+      { "title": "Payment integrations", "description": "Razorpay, Stripe, UPI and cash-on-delivery configured and tested end to end." },
+      { "title": "Inventory sync", "description": "Connect your ERP or POS so stock levels stay accurate across channels." },
+      { "title": "Rich results", "description": "Product, offer and review markup to stand out in search results." }
+    ],
+    "process": [
+      "Catalogue and platform planning",
+      "Store design and theme development",
+      "Payments, shipping and integrations",
+      "Launch and conversion optimisation"
+    ],
+    "faqs": [
+      { "question": "Which e-commerce platform should I choose?", "answer": "Shopify suits most small and medium stores; WooCommerce fits existing WordPress sites; headless builds suit large catalogues needing custom experiences. We recommend after a short discovery call." },
+      { "question": "Can you migrate my existing store?", "answer": "Yes. We migrate products, customers and orders and preserve SEO with redirects from old product URLs." },
+      { "question": "Do you handle payment gateway setup?", "answer": "Yes. We configure and test gateways such as Razorpay, Stripe and PayPal, including webhooks and refunds." }
+    ],
+    "startingPrice": 2500,
+    "related": ["website-development", "digital-marketing", "seo-services"],
+    "locations": ["chandigarh", "delhi", "mumbai", "bengaluru"],
+    "updatedAt": "2026-09-15"
+  },
+  {
+    "slug": "ui-ux-design",
+    "name": "UI/UX Design",
+    "tagline": "Research-led interfaces that are clear, consistent and easy to use.",
+    "summary": "User research, wireframing, prototyping and design systems for websites and applications.",
+    "description": [
+      "Good design removes friction. We interview users, map their journeys and test prototypes before a line of production code is written.",
+      "Every engagement ends with a documented design system of components, tokens and usage guidelines, so your product stays consistent as it grows."
+    ],
+    "benefits": [
+      { "title": "User research", "description": "Interviews, analytics review and usability testing to ground decisions in evidence." },
+      { "title": "Interactive prototypes", "description": "Clickable prototypes to validate flows with real users and stakeholders." },
+      { "title": "Design systems", "description": "Reusable components and tokens that speed up development." },
+      { "title": "Accessibility reviews", "description": "Contrast, focus states and screen-reader flows checked at the design stage." }
+    ],
+    "process": [
+      "Research and discovery",
+      "Information architecture and wireframes",
+      "Visual design and prototyping",
+      "Usability testing and handoff"
+    ],
+    "faqs": [
+      { "question": "Do you only design, or also build?", "answer": "Both. We can hand off production-ready designs to your team or carry the project through development." },
+      { "question": "Which tools do you use?", "answer": "We work primarily in Figma and share files, prototypes and component libraries with your team." },
+      { "question": "Can you redesign an existing product?", "answer": "Yes. We start with a UX audit to identify the highest-impact improvements before redesigning." }
+    ],
+    "startingPrice": 1000,
+    "related": ["website-development", "ecommerce-development"],
+    "locations": ["chandigarh", "mohali", "bengaluru"],
+    "updatedAt": "2026-08-30"
+  },
+  {
+    "slug": "digital-marketing",
+    "name": "Digital Marketing",
+    "tagline": "Paid and organic campaigns measured against real business outcomes.",
+    "summary": "Google Ads, paid social, email and analytics set up to generate and track qualified leads.",
+    "description": [
+      "We plan and run campaigns across Google Ads, Meta and LinkedIn, with landing pages and conversion tracking built to measure what matters.",
+      "Budgets are managed against cost per lead and return on ad spend, with weekly optimisation and clear monthly reporting."
+    ],
+    "benefits": [
+      { "title": "Search and social ads", "description": "Campaign structure, creatives and bidding strategies tuned to your margins." },
+      { "title": "Conversion tracking", "description": "GA4, server-side tagging and offline conversion imports for accurate attribution." },
+      { "title": "Landing pages", "description": "Fast, focused pages designed and tested to convert paid traffic." },
+      { "title": "Email automation", "description": "Nurture sequences that turn new leads into customers." }
+    ],
+    "process": [
+      "Audit and goal setting",
+      "Tracking and landing page setup",
+      "Campaign launch",
+      "Weekly optimisation and monthly reporting"
+    ],
+    "faqs": [
+      { "question": "What budget do I need for paid ads?", "answer": "It depends on your market and goals. We recommend a test budget large enough to gather meaningful data, then scale what works." },
+      { "question": "Do you create ad creatives?", "answer": "Yes. Our team produces copy, static images and short videos for each campaign." },
+      { "question": "How do you measure success?", "answer": "We agree on primary metrics such as cost per lead or return on ad spend up front and report against them every month." }
+    ],
+    "startingPrice": 700,
+    "related": ["seo-services", "website-development"],
+    "locations": ["chandigarh", "mohali", "delhi", "mumbai"],
+    "updatedAt": "2026-10-05"
+  }
+]
